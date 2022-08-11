@@ -175,9 +175,9 @@
     grid-template-columns: 1fr 1fr;
     align-items: center;
     justify-self: center;
+    margin: 10em;
     width: 80%;
-    margin: 0 auto;
-    height: 90vh;
+    height: 50vh;
     background: var(--white);
 }
 
